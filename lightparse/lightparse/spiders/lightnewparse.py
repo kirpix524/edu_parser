@@ -29,5 +29,3 @@ class LightnewparseSpider(scrapy.Spider):
                 "price": price,
                 "detail_url": detail_url
             }
-
-#<span class="ui-LD-ZU KIkOH" data-testid="price">4990<span class="ui-i5wwi ui-VDyJR ui-VWOa-">руб.</span></span>
